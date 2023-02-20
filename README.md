@@ -1,8 +1,6 @@
 # Tweet2Sheet
 Scans URLs in RSS feeds looking for embeds of, or links to, tweets. Outputs these to a Google Spreadsheet with the columns:
 
-current_date | current_time | domain | username | url | tweet
-
 | current_date  |  current_time | domain  | username  | url  | tweet  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 |   |   |   |   |   |   | |
