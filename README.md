@@ -1,6 +1,7 @@
 # Tweet2Sheet :bird: :page_facing_up:
+
 ![GitHub](https://img.shields.io/github/license/stalebg/Tweet2Sheet)
-![GitHub last commit](https://img.shields.io/github/last-commit/<your-github-username>/Tweet2Sheet)
+
 Tweet2Sheet is a Python-based application that scans URLs from RSS feeds and identifies embedded tweets or tweet links. These are then extracted and logged into a Google Spreadsheet for easy access and review.
 
 ## :star2: Features
