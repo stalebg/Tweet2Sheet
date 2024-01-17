@@ -1,6 +1,7 @@
 # Tweet2Sheet :bird: :page_facing_up:
 
 ![GitHub](https://img.shields.io/github/license/stalebg/Tweet2Sheet)
+![Heroku](https://img.shields.io/badge/Heroku-purple?logo=heroku&amp;logoColor=white)
 
 Tweet2Sheet is a Python-based application that scans URLs from RSS feeds and identifies embedded tweets or tweet links. These are then extracted and logged into a Google Spreadsheet for easy access and review.
 
